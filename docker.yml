@@ -1,0 +1,4 @@
+use_docker:
+  type: bool
+  help: Use Docker?
+  default: true
