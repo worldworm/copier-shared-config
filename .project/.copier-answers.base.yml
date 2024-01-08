@@ -1,9 +1,10 @@
 # Changes here will be overwritten by Copier
-_commit: 09af72b
+_commit: v1.1.0
 _src_path: https://github.com/worldworm/copier-base.git
+badges: []
 copyright_license: MIT
 copyright_year_start: 2023
-copyright_year_today: 2023
+copyright_year_today: 2024
 project_description: Copier shared-config as a git submodule.
 project_emoji: 📋
 project_name: copier-shared-config
@@ -11,4 +12,4 @@ repository_name: copier-shared-config
 repository_provider: GitHub
 repository_url: https://github.com/worldworm/copier-shared-config
 repository_username: worldworm
-
+warning_early_dev: false
